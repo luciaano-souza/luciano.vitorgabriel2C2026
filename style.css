@@ -1,5 +1,5 @@
 body {
-    background-color: #f4ecd8;
+    background-color: #d8eb33;
     color: #1a1a1a;
     font-family: "Times New Roman", serif;
 }
@@ -19,6 +19,6 @@ main {
 }
 footer {
     font-style: italic;
-    border-top: 1px solid #e6d926;
+    border-top: 1px solid #000000;
     margin-top: 30px;
 }
