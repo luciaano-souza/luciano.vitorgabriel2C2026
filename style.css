@@ -8,13 +8,13 @@ header {
     border-bottom: 3px double #cdfd20;
 }
 nav {
-    text-align: left;
+    text-align: center;
     border-bottom: 1px solid #000000;
     padding: 5px;
 }
 main {
     max-width: 800px;
-    margin: left;
+    margin: center;
     line-height: 1.6;
 }
 footer {
