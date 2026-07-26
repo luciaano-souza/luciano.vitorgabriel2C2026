@@ -23,7 +23,7 @@ footer {
     margin-top: 30px;
 }
 article img, post img {
-  max-width: 50px;
+  max-width: 100px;
   height: auto;
   display: block;
   margin: 0 auto;
