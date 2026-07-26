@@ -8,19 +8,19 @@ header {
     border-bottom: 3px double #cdfd20;
 }
 nav {
-    text-align: center;
+    text-align: left;
     border-bottom: 1px solid #000000;
     padding: 5px;
 }
 main {
     max-width: 800px;
-    margin: auto;
+    margin: left;
     line-height: 1.6;
 }
 footer {
     font-style: italic;
     border-top: 1px solid #000000;
-    margin-top: 200px;
+    margin-top: 30px;
 }
 img {
 border-radius: 15px;
@@ -31,8 +31,4 @@ article img, post img {
   height: auto;
   display: block;
   margin: 0 auto;
-}
-
- nav {
-text-align: left;
 }
