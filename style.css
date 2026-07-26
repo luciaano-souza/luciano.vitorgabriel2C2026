@@ -20,7 +20,7 @@ main {
 footer {
     font-style: italic;
     border-top: 1px solid #000000;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 img {
 border-radius: 15px;
@@ -33,6 +33,6 @@ article img, post img {
   margin: 0 auto;
 }
 
-h3, nav {
+ nav {
 text-align: left;
 }
