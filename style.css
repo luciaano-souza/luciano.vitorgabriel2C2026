@@ -23,14 +23,8 @@ footer {
     margin-top: 30px;
 }
 article img, post img {
-  max-width: 300px;
+  max-width: 100px;
   height: auto;
   display: block;
   margin: 0 auto;
-}
-
-.img-float-right {
-  float: right;
-  margin-left: 15px;
-  margin-bottom: 15px;
 }
