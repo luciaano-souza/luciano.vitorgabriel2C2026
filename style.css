@@ -14,7 +14,7 @@ nav {
 }
 main {
     max-width: 800px;
-    margin: middle left;
+    margin: left;
     line-height: 1.6;
 }
 footer {
@@ -30,5 +30,5 @@ article img, post img {
   max-width: 100px;
   height: auto;
   display: block;
-  margin: 0 auto;
+  margin: right;
 }
