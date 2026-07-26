@@ -5,6 +5,7 @@ body {
 }
 header {
     text-align: center;
+    color:darkblue
     border-bottom: 3px double #cdfd20;
 }
 nav {
@@ -14,7 +15,7 @@ nav {
 }
 main {
     max-width: 800px;
-    margin: right;
+    margin: left;
     line-height: 1.6;
 }
 footer {
