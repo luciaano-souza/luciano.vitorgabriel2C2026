@@ -22,3 +22,11 @@ footer {
     border-top: 1px solid #000000;
     margin-top: 30px;
 }
+
+/* Limita o tamanho máximo das imagens do conteúdo */
+article img, post img {
+  max-width: 600px; /* Largura máxima desejada */
+  height: auto;     /* Mantém a proporção */
+  display: block;
+  margin: 0 auto;   /* Centraliza a imagem */
+}
