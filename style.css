@@ -28,3 +28,7 @@ article img, post img {
   display: block;
   margin: 0 auto;
 }
+
+header, nav {
+text-align: center;
+}
