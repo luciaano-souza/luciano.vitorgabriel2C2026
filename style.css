@@ -25,7 +25,7 @@ footer {
 
 /* Limita o tamanho máximo das imagens do conteúdo */
 article img, post img {
-  max-width: 600px; /* Largura máxima desejada */
+  max-width: 300px; /* Largura máxima desejada */
   height: auto;     /* Mantém a proporção */
   display: block;
   margin: 0 auto;   /* Centraliza a imagem */
