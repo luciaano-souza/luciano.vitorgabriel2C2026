@@ -27,6 +27,7 @@ footer {
 }
 img {
 border-radius: 30px;
+text-align: center;
 }
 
 article img, post img {
