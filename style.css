@@ -8,6 +8,7 @@ header {
     border-bottom: 3px double #cdfd20;
 }
 nav {
+    border-radius: 25px;
     text-align: left;
     border-bottom: 2px solid #000000;
     padding: 25px;
@@ -32,5 +33,3 @@ article img, post img {
   display: block;
   margin: center;
 }
-
-{padding: 25xp;}
