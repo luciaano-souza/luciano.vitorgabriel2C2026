@@ -14,6 +14,8 @@ nav {
     padding: 25px;
 }
 main {
+    border-radius: 25px;
+    border-color: antiquewhite;
     max-width: 800px;
     margin: left;
     line-height: 1.6;
